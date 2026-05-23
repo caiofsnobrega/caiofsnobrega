@@ -10,4 +10,5 @@
  [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
  ![SQL](https://img.shields.io/badge/-SQL-73A2D1?style=for-the-badge&logo=sql&labelColor=73A2D1)&nbsp;
  [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
-
+?style=for-the-badge&logo=
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)&nbsp;
