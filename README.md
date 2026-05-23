@@ -6,7 +6,7 @@
  ### Main skills: 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
  ![Pandas](https://img.shields.io/badge/-Pandas-9400D3?style=for-the-badge&logo=pandas&labelColor=9400D3)&nbsp;
- ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&logoColor=FF7518)&nbsp;
+ ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&style=for-the-badge&logoColor=FF7518)&nbsp;
  ![SQL](https://img.shields.io/badge/-SQL-73A2D1?style=for-the-badge&logo=sql&labelColor=73A2D1)&nbsp;
  [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
  [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
