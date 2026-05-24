@@ -8,6 +8,7 @@
  ![Pandas](https://img.shields.io/badge/-Pandas-9400D3?style=for-the-badge&logo=pandas&labelColor=9400D3)&nbsp;
  ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&style=for-the-badge&logoColor=white)&nbsp;
  ![SQL](https://img.shields.io/badge/-SQL-73A2D1?logo=sql&style=for-the-badge&logoColor=73A2D1)&nbsp;
+ ![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&style=for-the-badge&logoColor=73A2D1)&nbsp;
  [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
  [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 
