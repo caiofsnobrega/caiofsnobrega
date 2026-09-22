@@ -1,17 +1,40 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D20A2E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D20A2E&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!;My+name+is+Caio+Nóbrega;I'm+from+Brazil;Data+Scientist;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
-Sou profissional da área de Dados e criei este espaço para registrar os projetos que desenvolvo. Meu foco principal é transformar dados brutos em soluções práticas, que ajudem na tomada de decisões inteligentes e na resolução de problemas reais.
+### Olá! 👋 Sou profissional da área de Dados
 
-Recém-formado em Ciência de Dados pela EBAC, aprendi na prática a limpar dados de forma profissional, gerar visualizações relevantes, criar modelos de Machine Learning eficientes e avaliar resultados.
+Criei este espaço para registrar os projetos que desenvolvo, com o foco principal em **transformar dados brutos em soluções práticas** que auxiliam na tomada de decisões inteligentes e na resolução de problemas reais.
 
-- **Ferramentas Principais:** domínio de Python (com bibliotecas como Pandas, Scikit-Learn e Seaborn), SQL, Power BI e Excel.
-- **Pipelines Completos:** análise exploratória, tratamento de dados desbalanceados, normalização de variáveis, implementação e avaliação de modelos.
-- **Além do Código:**  procuro extrair insights relevantes que tragam clareza para a análise e facilitem a tomada de decisão.
+Formado em Ciência de Dados pela EBAC, desenvolvi competências práticas em:
+* 🧹 Limpeza e tratamento profissional de dados;
+* 📊 Geração de visualizações e relatórios analíticos relevantes;
+* 🤖 Criação e avaliação de modelos eficientes de *Machine Learning*.
 
- ### Main skills: 
+---
+
+### 🛠️ Tecnologias e Ferramentas
+* **Linguagens e Bibliotecas:** Python (Pandas, Scikit-Learn, Seaborn, Plotly) e SQL.
+* **Business Intelligence:** Power BI e Excel.
+* **Competências de Pipeline:** Análise Exploratória (EDA), tratamento de dados desbalanceados, normalização, modelagem e validação.
+
+---
+
+### 💡 Além do Código
+Busco sempre ir além da técnica, extraindo *insights* claros que tragam clareza para a análise e facilitem a visão estratégica do negócio. Fique à vontade para explorar meus repositórios!
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiofsnobrega&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiofsnobrega&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/caionobrega/)
+
+
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
  ![Pandas](https://img.shields.io/badge/-Pandas-9400D3?style=for-the-badge&logo=pandas&labelColor=9400D3)&nbsp;
  ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&style=for-the-badge&logoColor=white)&nbsp;
