@@ -1,9 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1661a5&height=120&section=header"/>
 
+### Olá, sou o Caio! 👋 
 
-
-### Olá! 👋 Sou profissional da área de Dados
-
-Criei este espaço para registrar os projetos que desenvolvo, com o foco principal em **transformar dados brutos em soluções práticas** que auxiliam na tomada de decisões inteligentes e na resolução de problemas reais.
+Sou profissional da área de Dados e criei este espaço para registrar os projetos que desenvolvo, com o foco principal em **transformar dados brutos em soluções práticas** que auxiliam na tomada de decisões inteligentes e na resolução de problemas reais.
 
 Formado em Ciência de Dados pela EBAC, desenvolvi competências práticas em:
 * 🧹 Limpeza e tratamento profissional de dados;
@@ -22,18 +21,20 @@ Formado em Ciência de Dados pela EBAC, desenvolvi competências práticas em:
 ### 💡 Além do Código
 Busco sempre ir além da técnica, extraindo *insights* claros que tragam clareza para a análise e facilitem a visão estratégica do negócio. Fique à vontade para explorar meus repositórios!
 
-### Detalhes
+#### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiofsnobrega&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Linguagens utilizadas
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=caiofsnobrega&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiofsnobrega&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contatos
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=caiofsnobrega&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### Contato:
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/caionobrega/)
 
+---
 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
  ![Pandas](https://img.shields.io/badge/-Pandas-9400D3?style=for-the-badge&logo=pandas&labelColor=9400D3)&nbsp;
