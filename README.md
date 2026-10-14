@@ -2,7 +2,7 @@
 
 ### Olá, sou o Caio! 👋 
 
-Sou profissional da área de Dados e criei este espaço para registrar os projetos que desenvolvo, com o foco principal em **transformar dados brutos em soluções práticas** que auxiliam na tomada de decisões inteligentes e na resolução de problemas reais.
+Sou gestor comercial e profissional da área de Dados e criei este espaço para registrar os projetos que desenvolvo, com o foco principal em **transformar dados brutos em soluções práticas** que auxiliam na tomada de decisões inteligentes e na resolução de problemas reais.
 
 Formado em Ciência de Dados pela EBAC, desenvolvi competências práticas em:
 * 🧹 Limpeza e tratamento profissional de dados;
@@ -12,14 +12,14 @@ Formado em Ciência de Dados pela EBAC, desenvolvi competências práticas em:
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-* **Linguagens e Bibliotecas:** Python (Pandas, Scikit-Learn, Seaborn, Plotly) e SQL.
+* **Linguagens e Bibliotecas:** Python (Pandas, Scikit-Learn, Seaborn) e SQL.
 * **Business Intelligence:** Power BI e Excel.
 * **Competências de Pipeline:** Análise Exploratória (EDA), tratamento de dados desbalanceados, normalização, modelagem e validação.
 
 ---
 
 ### 💡 Além do Código
-Busco sempre ir além da técnica, extraindo *insights* claros que tragam clareza para a análise e facilitem a visão estratégica do negócio. Fique à vontade para explorar meus repositórios!
+Busco sempre ir além da técnica, extraindo *insights* que tragam clareza para a análise e facilitem a visão estratégica do negócio. Fique à vontade para explorar meus repositórios!
 
 #### Detalhes
 
