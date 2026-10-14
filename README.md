@@ -4,6 +4,7 @@
 
 Sou gestor comercial e profissional da área de Dados e criei este espaço para registrar os projetos que desenvolvo, com o foco principal em **transformar dados brutos em soluções práticas** que auxiliam na tomada de decisões inteligentes e na resolução de problemas reais.
 
+
 Formado em Ciência de Dados pela EBAC, desenvolvi competências práticas em:
 * 🧹 Limpeza e tratamento profissional de dados;
 * 📊 Geração de visualizações e relatórios analíticos relevantes;
@@ -11,11 +12,11 @@ Formado em Ciência de Dados pela EBAC, desenvolvi competências práticas em:
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias, Ferramentas e Skills:
 * **Linguagens e Bibliotecas:** Python (Pandas, Scikit-Learn, Seaborn) e SQL.
 * **Business Intelligence:** Power BI e Excel.
 * **Competências de Pipeline:** Análise Exploratória (EDA), tratamento de dados desbalanceados, normalização, modelagem e validação.
-
+* **Domínio de Habilidades:** Marketing Analytics, KPIs Comerciais e Financeiros, Gestão de Cadeia de Suprimentos, Gestão de E-commerce
 ---
 
 ### 💡 Além do Código
